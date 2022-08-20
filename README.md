@@ -1,0 +1,2 @@
+# Smart-power-point-control-using-hand-gesture
+-when the user wants to control power point without external device and when he wants to move next and previous slides by using this project we can control. use of gestures would make the presenter to handle the presentation more easily and accuratetly. It has a pointer by using that we can pointout anywhere on the screen . We can draw the lines on the screen by using fingers and also we can erase the marks that we already drawn on the screen.
